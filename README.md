@@ -36,3 +36,7 @@ Repeat for all teams.
 Tally up the optimal entries per region per event that meet the qualifying time.
 
 In conclusion, for Region 9, Event 6, it would not matter how much slower the qualifying time was, only 12 entries would be expected.  
+
+----
+
+In this collection of files you will find the SQL that created the best times for individual events.  You will also find Teams.pm which retrieves those best times as well as the rosters.  Powerpoints.pm includes functions to retrieve the best times for each relay combination and creating the Octave script that performs the linear optimization described above.  The produced Octave script is included, as is the Perl script that creates and executes such an Octave script for each team.
