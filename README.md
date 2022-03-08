@@ -1,7 +1,7 @@
 # sample_code
 sample of report generating code for swimming optimization
 
-The NCHSAA is one of two memmber associations in North Carolina of the National Federation of High Schools (an NGB of sorts for High School Competitions in the US).  I serve as an advisor and vendor for Swimming and Diving.  I run a site that is the clearinghouse for all high school meet results and the entry portal for post-season competition.  As such, I have the data for all results by all swimmers in all events from all schools for the entire season.
+The NCHSAA is one of two member associations in North Carolina of the National Federation of High Schools (an NGB of sorts for High School Competitions in the US).  I serve as an advisor and vendor for Swimming and Diving.  I run a site that is the clearinghouse for all high school meet results and the entry portal for post-season competition.  As such, I have the data for all results by all swimmers in all events from all schools for the entire season.
 
 Each year, we the advisory board is tasked with setting post-season qualifying times with the general purpose of filling each event with 24 competitors at the regional meets.
 
