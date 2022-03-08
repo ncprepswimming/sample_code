@@ -24,10 +24,15 @@ Can we arrive at an assertion for how coaches will decide whom to enter?
 ----
 
 Start with the list of best times for each athlete for a given team.
+
 Transcode those times into integer values that reflect the relative strength of those times in a more-or-less equivalent way across events.
+
 Assert that the entry selections that create the greatest sum of those values is the optimum entry lineup for a given team.
+
 Employ constrained linear optimization to determine that such lineup.
-Repeat for all teams
+
+Repeat for all teams.
+
 Tally up the optimal entries per region per event that meet the qualifying time.
 
 In conclusion, for Region 9, Event 6, it would not matter how much slower the qualifying time was, only 12 entries would be expected.  
